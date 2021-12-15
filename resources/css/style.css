@@ -25,7 +25,7 @@ body {
 }
 
 .heading > h1 {
-    border: 1rem solid antiquewhite;
+    border: 1rem solid bisque;
 }
 
 .heading > h2 {
@@ -132,7 +132,7 @@ footer {
 #photo-gallery {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 2;
     column-gap: 0 0.5rem;
     padding: 1rem;
 }
@@ -160,7 +160,7 @@ footer {
 
 @media screen and (max-width: 423) {
 
-    #purple-heading > h1 {
-        font-size: 2.5rem;
+    #purple-heading {
+        font-size: 1.5rem;
     }
  }
